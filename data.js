@@ -5,7 +5,7 @@ var feed_data = {
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "ZUM1amJ5OHlNalky", "ZUM1amJ5OHlNalky", "ZUM1amJ5OHlNamc0"]
+                 "value": [ "ZUM1amJ5OHlNalky", "ZUM1amJ5OHlNalky", "ZUM1amJ5OHlNalky"]
                }, 
    
   "ogateurl": { "name": "ogate",
@@ -18,7 +18,7 @@ var feed_data = {
                  "value": [ "TVRFMExqSTBMamd5TGpFek5BPT0=", "TVRFMExqSTBMamd5TGpFek5BPT0=", "WkRFMmNHaHFjV2wyZFhWbmRtUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZUM1amJ5OHlNalky", "ZUM1amJ5OHlNalky", "ZG5CNVkyeHZMbmd1WTI4dk1qSTJOZz09"]
+                 "value": [ "ZUM1amJ5OHlNalky", "ZUM1amJ5OHlNalky", "YkhkNWRIRnBMbmd1WTI4dk1qSTJOZz09"]
                }, 
 
     "article": { "name": "最新文章", 
