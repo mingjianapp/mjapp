@@ -18,7 +18,7 @@ var feed_data = {
                  "value": [ "TVRFMExqSTBMamd5TGpFek5BPT0=", "TVRFMExqSTBMamd5TGpFek5BPT0=", "WkRFMmNHaHFjV2wyZFhWbmRtUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZUM1amJ5OHlNalky", "ZUM1amJ5OHlNalky", "Ym5aeWVIbGhjQzU0TG1Odkx6SXlOalk9"]
+                 "value": [ "ZUM1amJ5OHlNalky", "ZUM1amJ5OHlNalky", "WjJKaWVXZGhZaTU0TG1Odkx6SXlOalk9"]
                }, 
 
     "article": { "name": "最新文章", 
